@@ -8,7 +8,7 @@ Welcome to **Skript.gg Clone**! 🚀 This tool allows you to automate tasks effi
 
 ## 📥 Download & Installation
 
-1. **Download** the latest release from the [Releases](https://github.com/yourrepo/releases) section.
+1. **Download** the latest release from the "code" section.
 2. Extract the `.zip` file to your preferred location.
 3. Locate `skript.gg.exe` inside the extracted folder.
 
