@@ -44,6 +44,8 @@ More games will be added in future updates! 🔥
 
 
 ![image](https://github.com/user-attachments/assets/cae41147-3f42-4dc8-b4c5-cc9430016644)
+![image](https://github.com/user-attachments/assets/cd3a26e5-9302-4cb1-9da0-b1cf8afcad6d)
+
 ---
 
 ## ❌ Disclaimer
