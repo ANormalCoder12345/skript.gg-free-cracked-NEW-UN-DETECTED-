@@ -42,6 +42,8 @@ More games will be added in future updates! 🔥
 - Ensure you have **.NET Framework** installed (if required).
 - Disable **Antivirus** if it falsely flags the file.
 
+
+![image](https://github.com/user-attachments/assets/cae41147-3f42-4dc8-b4c5-cc9430016644)
 ---
 
 ## ❌ Disclaimer
